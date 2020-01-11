@@ -21,3 +21,5 @@ console.log("12"/2)  // 6
 console.log("12" + 2) // 122
 console.log("12" - 2) //  10
 console.log("12" * 2) // 24
+
+
